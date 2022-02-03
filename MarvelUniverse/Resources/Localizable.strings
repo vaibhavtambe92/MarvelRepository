@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MarvelUniverse
+
+  Created by Vaibhav Tambe on 25/01/22.
+  
+*/
+
+"Marvel_Universe" = "Marvel Universe";
+"Marvel_ErrorTitle" = "Error occured while loading marvel characters";
+"comics" = "Comics";
+"series" = "Series";
+"stories" = "Stories";
+"events" = "Events";
+"Marvel_NoInternetErrorTitle" = "No internet connection found. Please try after sometime";
